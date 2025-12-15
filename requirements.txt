@@ -1,5 +1,6 @@
 pandas
 numpy
 seaborn
+dill
 
--e .
+#-e .
