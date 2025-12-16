@@ -1,6 +1,10 @@
 pandas
 numpy
 seaborn
+scikit-learn
 dill
+Flask
+catboost
+xgboost
 
 #-e .
